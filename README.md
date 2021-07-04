@@ -1,2 +1,1 @@
-# C-27-Newton-s-Cradle
-Resubmit
+# NC27
